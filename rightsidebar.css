@@ -1,0 +1,241 @@
+body
+{
+    padding: 0px;
+    margin-left: 0px;
+    
+}
+.brand-logo 
+{
+    font-weight: bolder;
+    font-size: 30px;
+    position: relative;
+    left: 20px;
+}
+.navbar
+{
+    margin-left: -30px;
+    margin-top: 20px;
+}
+.navbar ul a
+{
+    text-decoration: none;
+    font-family: 'Trebuchet MS';
+}
+.navbar li 
+{
+    display: inline;
+    position: relative;
+    left: 615px;
+    padding: 20px;   
+}
+.unordered li a:visited
+{
+    color: black;
+}
+.unordered li a:hover
+{
+    color: white;
+    background-color: rgba(241, 75, 9, 0.836);
+    border-radius: 5px;
+    padding: 10px;
+    transition: 1s all;
+}
+.img
+{
+    position: relative;
+    top: 20px;
+    padding-left: 10px;
+    background-image: url("https://jooinn.com/images/sea-rocks-6.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 400px;
+    width: 100%;
+} 
+
+.content
+{
+    font-family: 'Trebuchet MS';
+    width: 1000px;
+    margin-left: 30px;
+    margin-top: 145px;
+    /* position: relative; */
+    /* top: 15px; */
+}
+
+.link1
+{
+    font-family: 'Trebuchet MS';
+    margin-left: 30px;
+    /* position: relative; */
+    /* margin-top: 140px; */
+    /* top: 25px; */
+    /* left: 123px; */
+}
+.lin2
+{
+    margin-top: 65px;
+}
+.link1 a
+{
+    color: orangered;
+}
+
+.content, .link1
+{
+    display: inline-block;
+}
+
+.ig
+{
+    position: relative;
+    top: 210px;
+    padding-left: 10px;
+    background-image: url("https://i.pinimg.com/originals/04/bd/82/04bd82df86c140746bfb8371273cfd90.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    height: 100%;
+    width: 100%;
+}
+.box1 img, .box2 img, .box3 img
+{
+    margin-top: 85px;
+    width: 380px;
+    height: 200px;
+}
+.img1 img, .img2 img, .img3 img
+{
+    /* position: relative;
+    top: -183px;
+    left: 20px; */
+    margin-left: 20px;
+    width: 140px;
+    height: 140px;
+}
+.para1 ,.para2, .para3
+{
+    position: relative;
+    top: -20px;
+    margin-left: 20px;
+}
+.para1 p, .para2 p, .para3 p
+{
+    width: 155px;
+}
+.img1, .para1
+{
+    display: inline-block;
+}
+.boximg1,.boximg2, .boximg3
+{
+    margin-top: -174px;
+}
+.img2, .para2
+{
+    display: inline-block;
+}
+.img3, .para3
+{
+    display: inline-block;
+}
+.b1, .b2, .b3
+{
+    padding-left: 44px;
+    display: inline-block;
+}
+.hr1
+{
+    border-bottom: 1px solid rgb(46, 45, 45);
+    width: 1242px;
+    margin-top: 90px;
+    margin-left: 42px;
+}
+.final1
+{
+    font-family: 'Trebuchet MS';
+    margin-left: 50px;
+}
+.square1 h2, .square2 h2, .square3 h2, .square4 h2
+{
+    color: white;
+}
+.square1 img
+{
+    width: 220px;
+    height: 280px;
+    border-radius: 5px;
+}  
+.square1 p
+{
+    position: relative;
+    top: -250px;
+    left: 33px;
+    color: black;
+    width: 150px;
+}  
+.square2 p
+{
+    color: white;
+    font-size: small;
+    width: 220px;
+}
+.hr2, .hr3
+{
+    border-bottom: 1px solid rgb(46, 45, 45);
+    width: 230px;
+}
+.square1, .square2, .square3, .square4
+{
+    display: inline-block;
+}
+.square2
+{
+    position: relative;
+    top: -205px;
+    left: 130px;
+}
+.square3 p, .square4 p
+{
+    color: white;
+    font-size: small; 
+    width: 200px;
+}
+.square3 img
+{
+    width: 60px;
+    height: 60px;
+}
+.square3 a, .square4 a, .para1 a, .para2 a, .para3 a
+{
+    color: white;
+    background-color: rgba(170, 50, 2, 0.836);
+    border-radius: 5px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;      
+}
+.square3
+{
+    position: relative;
+    top: -199px;
+    left: 209px;
+}
+.square4
+{
+    position: relative;
+    top: -241px;
+    left: 329px;
+}
+.hr4
+{
+    border-bottom: 1px solid rgb(46, 45, 45);
+    width: 1242px;
+   
+    position: relative;
+    top: 440px;
+    left: 42px;
+}
+.square3 a:hover, .square4 a:hover, .para1 a:hover, .para2 a:hover, .para3 a:hover
+{
+    background-color: yellow;
+    transition: 2s all;
+}
